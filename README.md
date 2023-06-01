@@ -1,1 +1,1 @@
-#aplicación requerida por el colegio la virgen de Guadalupe.
+Aplicación requerida por el colegio: La virgen de Guadalupe.
