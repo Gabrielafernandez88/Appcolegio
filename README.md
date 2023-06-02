@@ -25,6 +25,7 @@ BB.DD: COLEGIO NUESTRA SEÑORA DE GUADALUPE.
 [![](1er-sprint.svg)]() 
 <br>
 <br>
+<br>
 
 [![](-diagrama-edr.svg)]()
 
@@ -87,9 +88,14 @@ BB.DD: COLEGIO NUESTRA SEÑORA DE GUADALUPE.
 
 <br>
 <br>
+<br>
+
+[![](-scripts.svg)]()
+<br>
 
 [![](Scripts.png)]()
 ***Se puede observar los scripts utilizado,s para realizar las consultas, en los test case.***
+<br>
 <br>
 <br>
 
