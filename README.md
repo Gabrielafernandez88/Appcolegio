@@ -5,14 +5,22 @@ BB.DD: COLEGIO NUESTRA SEÑORA DE GUADALUPE.
 
 ***1er SPRINT:***
 
+
+DIAGRAMA EDR
+
 [![](DiagramaEDR.png)]()
 Se creó el diagrama EDR identificando: tablas, relaciones y claves PK y FK.
 
+
+MATRIZ
 
 [![](Matriz.png)]()
 Matriz con los test case realizados.
 
 ***2do SPRINT:***
+
+
+BB.DD
 
 [![](SQLtablas.png)]()
 [![](SQLdatos.png)]()
@@ -21,8 +29,12 @@ Matriz con los test case realizados.
 [![](TablaNotas.png)]()
 Se crearon las 3 tablas a traves del diagrama de EDR realizado y con los datos proporcionados por el cliente.
 
+
 [![](Scripts.png)]()
 Se puede observar los scripts utilizado,s para realizar las consultas, en los test case.
+
+
+CYCLE SUMMARY
 
 [![](CycleSummary.png)]()
 A traves del Cycle Summary podemos observar todo el ciclo de prueba con los test case superados y los que no lo hicieron.
