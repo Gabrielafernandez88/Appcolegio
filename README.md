@@ -1,1 +1,1 @@
-Aplicación requerida por el colegio: La virgen de Guadalupe.
+Aplicación requerida por el colegio: Nuestra señora de Guadalupe.
