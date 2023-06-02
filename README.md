@@ -34,6 +34,7 @@ BB.DD
 [![](TablaAlumnos.png)]()
 [![](TablaMaterias.png)]()
 [![](TablaNotas.png)]()
+
 Se crearon las 3 tablas a traves del diagrama de EDR realizado y con los datos proporcionados por el cliente.
 
 
