@@ -5,3 +5,8 @@ Se trabajo bajo la metodología Scrum, dividiendo el trabajo en 2 sprint, a trav
 
 1er SPRINT:
 
+[![](diagrama EDR.png)]()
+Se creó el diagrama EDR identificando: tablas, relaciones y claves PK y FK.
+
+
+
