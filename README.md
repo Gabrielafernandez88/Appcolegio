@@ -9,4 +9,25 @@ Se trabajo bajo la metodología Scrum, dividiendo el trabajo en 2 sprint, a trav
 Se creó el diagrama EDR identificando: tablas, relaciones y claves PK y FK.
 
 
+[![](matriz.png)]()
+Matriz con los test case realizados.
+
+2do SPRINT:
+
+[![](SQL tablas.png)]()
+[![](SQL datos.png)]()
+[![](tabla alumnos.png)]()
+[![](tabla materias.png)]()
+[![](tabla notas.png)]()
+Se crearon las 3 tablas a traves del diagrama de EDR realizado y con los datos proporcionados por el cliente.
+
+
+
+
+
+
+
+
+
+
 
