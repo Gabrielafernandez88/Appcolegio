@@ -5,7 +5,7 @@ BB.DD: COLEGIO NUESTRA SEÑORA DE GUADALUPE.
 
 ***1er SPRINT:***
 
-[![](diagramaEDR.png)]()
+[![](diagrama EDR.png)]()
 Se creó el diagrama EDR identificando: tablas, relaciones y claves PK y FK.
 
 
