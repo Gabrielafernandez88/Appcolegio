@@ -33,7 +33,7 @@ BB.DD: COLEGIO NUESTRA SEÑORA DE GUADALUPE.
 
 
 
-[![](DiagramaEDR.png)]()
+[![](Imagenes/DiagramaEDR.png)]()
 ***Se creó el diagrama EDR identificando: tablas, relaciones y claves PK y FK.***
 
 <br>
@@ -54,7 +54,7 @@ BB.DD: COLEGIO NUESTRA SEÑORA DE GUADALUPE.
 
 
 
-[![](Matriz.png)]()
+[![](Imagenes/Matriz.png)]()
 ***Matriz con los test case realizados.***
 
 <br>
@@ -74,15 +74,15 @@ BB.DD: COLEGIO NUESTRA SEÑORA DE GUADALUPE.
 
 
 
-[![](SQLtablas.png)]()
+[![](Imagenes/SQLtablas.png)]()
 
-[![](SQLdatos.png)]()
+[![](Imagenes/SQLdatos.png)]()
 
-[![](TablaAlumnos.png)]()
+[![](Imagenes/TablaAlumnos.png)]()
 
-[![](TablaMaterias.png)]()
+[![](Imagenes/TablaMaterias.png)]()
 
-[![](TablaNotas.png)]()
+[![](Imagenes/TablaNotas.png)]()
 
 ***Se crearon las 3 tablas a traves del diagrama de EDR realizado y con los datos proporcionados por el cliente.***
 
@@ -93,7 +93,7 @@ BB.DD: COLEGIO NUESTRA SEÑORA DE GUADALUPE.
 [![](-scripts.svg)]()
 <br>
 
-[![](Scripts.png)]()
+[![](Imagenes/Scripts.png)]()
 ***Se puede observar los scripts utilizado,s para realizar las consultas, en los test case.***
 <br>
 <br>
@@ -103,7 +103,7 @@ BB.DD: COLEGIO NUESTRA SEÑORA DE GUADALUPE.
 <br>
 
 
-[![](CycleSummary.png)]()
+[![](Imagenes/CycleSummary.png)]()
 
 ***A traves del Cycle Summary podemos observar todo el ciclo de prueba con los test case superados y los que no lo hicieron.***
 
